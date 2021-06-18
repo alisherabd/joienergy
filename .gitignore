@@ -1,0 +1,6 @@
+.DS_Store
+.vs
+JOIEnergy/JOIEnergy/bin
+JOIEnergy/JOIEnergy/obj
+JOIEnergy/JOIEnergy.Tests/bin
+JOIEnergy/JOIEnergy.Tests/obj
